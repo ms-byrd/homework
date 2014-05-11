@@ -1,4 +1,4 @@
 homework
 ========
 
-Cousera - R Programming, Assignment 2
+Cousera - Exploratory Data Analysis, Assignment 1
